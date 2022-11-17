@@ -15,6 +15,8 @@
 ## **# 아두이노 초기 세팅**
 
 ### [1] 브레드보드 및 아두이노 연결 (Arduino Uno사용)
+![Breadboard Image](https://www.dropbox.com/s/xg3w7ukde4v34zt/arduino.png?dl=0)
+
 ### [2] Arduino IDE
 - gspeech_test.ino 참고
 
