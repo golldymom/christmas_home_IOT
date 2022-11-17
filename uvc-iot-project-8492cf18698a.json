@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uvc-iot-project",
+  "private_key_id": "8492cf18698ac92cf6dfe9a807e6806c78ba9442",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3XeeWiWZU7y3T\nFHLWETb//a6c+Yqs5sEWAgrnFitElxvCCXeOhA2eC1louCx5gBskNwXPt3aLlsKo\n4Xoiwy/3PI5Fc/7VTQ+0wMt7Yl7RUfwSGK4qzIiBuZ58pOT7Xwlpq7jk8oBE/Hpu\nwCiCVej0y5SQ4RX8quzQXFKlSVxFQIinyJwCgvo1acPBeGsxC8eVtbFk59dxnlvQ\nae2PjASTR4T/W0tcM+EB48c0FMvcq93Amgeite7+HNNwbIfZZXeaGHOPsFd1IWol\nIAm7JqY6ERTyXQevvLU/OIAIPPTkrXakuIJWMw1A5DuVcrxerVhhvp1ZgN6w6EiT\nSfA0kdPPAgMBAAECggEAIH8RYGHYU1wR/HMGyP5DB4oPTH2DAJJijMJu6TZKE71N\n64ze9dBcU3KCdWcSZrP322qu6nmClklxFRnkmc2Krh+6vP9KHcYq7ucuCJ9N233S\nlOhv0WDvHkJlnoRgmlXk5qfKvDRn3BH8pq0CYNrVzrBXk3d4fI9UKbb65JUEN7di\n/HDkVWMx72t+P+JvCstZ4JrUNLRDcPqEubpc/3LrzfP12WLmoi6/IovdjGipsvdO\nwYMgie6TW4jXtiQV+EuTdT2QxjFWCWu7ivQynE/Ersd4hg5XZEQm3WfTZxRBoP0g\n5MuRECJjHErN8CFZTFTEKRjiX6cmiwZhvcVJNAJWMQKBgQD7ThjAQIPdhufy6XhO\nPwGZSPJO/9Q4pGQTEDLjknSb/HcKiTx5qmG0Af7TUCaPve3l9sDvzKEAuvYmuJKs\n+7p22XBz2yFbtOy/4fmUd56sHIXUlP080IMe90ZmKIjOntSYVPHuaOwxe8dAPkYU\nLwEPB/ro7AbEkIdZ1a1w07ri3wKBgQC6yuIg+9UjWL7bEtulrKI60gKR+0R7oRcz\nZfbnkGgyHdWQMpdMC27ZpL34afAP2Nk9QYZCpoC6mEVGFSr0MbBXp6ZVmyRw8Hhx\nd+8h+BYIt3/1pM1n05YMQaYP+rZCyf2i1aUk5ltc1FtSJBvzf22tlkRk7GbjfjMX\ncqMIjrqdEQKBgAw3hbiC6mYwksIaW4DiSz+abj0s7rI6O6s5lF+/1O9oXJkkhs4b\nXFiV6D95nAZM423UixidSA5zCFhljKvgKPZyJ6daNcrxhrjlUW7ISexwDomBHLaC\nJH2y47c/rTbuPcOSDZjbfPAC5nLXFC0TA+gpKSd9oe6YYBwb6Syc/m7dAoGBAK9v\n+BzEijWtl2wI9TVQw/n83x8e4P5AmZrTrKdm8QYJEVliuslYf5945FfZn/gyUi7/\nSMt2uLcIZx/gp7w8owRg2I/Uq9BLesQPwhCkgoVjW5JqW+WlS2ttiTu+3Mo0Dr2O\nbZIPrUWtyauHcJ0tVOTRmqEzi5slH3VpXQifjVQRAoGBAPswO8GUQeS3fAUNX3D0\n5icgnbmjwjMCwJoigegoOi/gHC0+dW49EWUFsbDaQ9/83on2iwwp0mFVDjuH1Xdv\nzQaG0pcJD+tJqNpfYh6DjIzggPlRbaK6ltPxRbnqwpMtyOE+aZeJWxvNTgEcfA+5\nhiI51+iUpVXVf7dSmbsvhLuR\n-----END PRIVATE KEY-----\n",
+  "client_email": "uvc-iot-project@uvc-iot-project.iam.gserviceaccount.com",
+  "client_id": "102475932641330363286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uvc-iot-project%40uvc-iot-project.iam.gserviceaccount.com"
+}
